@@ -15,7 +15,7 @@ public class TestLogin {
     @GetMapping("/test")
     public String test() {
 
-        return "这是测试的消息啊";
+        return "这是测试的消是息啊";
     }
 
 }
